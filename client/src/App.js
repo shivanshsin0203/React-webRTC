@@ -1,6 +1,5 @@
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
-import LobbyScreen from "./screens/Lobby";
 import RoomPage from "./screens/Room";
 
 function App() {
